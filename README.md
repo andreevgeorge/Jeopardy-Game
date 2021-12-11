@@ -1,2 +1,2 @@
 # Jeopardy-Game
-Jeopardy! Game React Web-App
+Jeopardy! Game - React Web-App
